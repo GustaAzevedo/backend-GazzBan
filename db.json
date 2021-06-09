@@ -1,0 +1,40 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "nome": "atividade 111",
+      "estado": "3",
+      "categoria": "Trabalho"
+    },
+    {
+      "nome": "caminhar",
+      "categoria": "trabalho",
+      "estado": "1",
+      "id": 6
+    },
+    {
+      "nome": "abadabadu",
+      "categoria": "projeto",
+      "estado": "2",
+      "id": 7
+    },
+    {
+      "nome": "sem bunda",
+      "categoria": "trabalho",
+      "estado": "1",
+      "id": 8
+    },
+    {
+      "nome": "reus",
+      "categoria": "faculdade",
+      "estado": "1",
+      "id": 9
+    },
+    {
+      "nome": "alfa cachorra",
+      "categoria": "escola",
+      "estado": "2",
+      "id": 10
+    }
+  ]
+}
